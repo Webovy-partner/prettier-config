@@ -1,6 +1,6 @@
 # prettier-config
 
-# Nasintalujte rozšíření prettier do vscode následně do settings.json, který používá vscode přidejte tyto hodnoty:
+Nasintalujte rozšíření prettier do vscode následně do settings.json, který používá vscode přidejte tyto hodnoty:
 
 "prettier.bracketSameLine": true,
 "prettier.jsxSingleQuote": true,
