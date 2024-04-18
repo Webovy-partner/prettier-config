@@ -1,12 +1,7 @@
 {
   "tabWidth": 2,
   "htmlWhitespaceSensitivity": "strict",
-  "htmlQuoteStyle": "single",
   "bracketSameLine": true,
   "proseWrap": "never",
-  "printWidth": 600,
-  "htmlFormatOptions": {
-    "singleQuote": false,
-    "wrapAttributes": "preserve"
-  }
+  "printWidth": 600
 }
