@@ -6,5 +6,5 @@
 "prettier.jsxSingleQuote": true,
 "prettier.requireConfig": true,
 "prettier.singleAttributePerLine": true,
-"prettier.configPath": "/Users/john/websites/prettier/.prettierrc",
+"prettier.configPath": "CESTA-K-.prettierrc",
 
